@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	unsigned long count, i , j, k, sums;
+	unsigned long count, i, j, k, sums;
 
 	i = sums = 0;
 	j = 1;
@@ -21,4 +21,4 @@ int main(void)
 	}
 	printf("%lu\n", sums);
 	return (0);
-}	
+}
