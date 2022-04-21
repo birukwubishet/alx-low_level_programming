@@ -39,5 +39,3 @@ int _strcmp(char *s1, char *s2)
 	}
 	return (var);
 }
-© 2022 GitHub, Inc.
-Terms
